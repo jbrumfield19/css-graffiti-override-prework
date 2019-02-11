@@ -15,6 +15,6 @@
 	display: none;
 }
 
- div#wall div#tag-3.slick, .wicked{ /*222*/
+ #wall #tag-3.slick, .wicked{ /*222*/
   display: none;
 }
